@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="796cd92c-534c-4673-b400-37d00d17abe0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/condicionais/src/Aula05EstruturasCondicionais.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java-devdojo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/src/academy/devdojo/maratonajava/introducao/scratch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/src/main/java/org/example/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maratona-java/src/main/java/org/example/academy/devdojo/maratonajava/introducao/OlaDevDojo.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicionais/src/Aula05EstruturasCondicionais02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/condicionais/src/Aula05EstruturasCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionais/src/Aula05EstruturasCondicionais01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/condicionais/Aula05EstruturasCondicionais.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +37,10 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Aula05EstruturasCondicionais.executor": "Run",
+    "Application.Aula05EstruturasCondicionais02.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
@@ -71,9 +61,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais02">
     <configuration name="Aula05EstruturasCondicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula05EstruturasCondicionais" />
+      <module name="condicionais" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aula05EstruturasCondicionais02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula05EstruturasCondicionais02" />
       <module name="condicionais" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aula05EstruturasCondicionais02" />
         <item itemvalue="Application.Aula05EstruturasCondicionais" />
         <item itemvalue="Application.Main" />
       </list>
@@ -108,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760566438975</updated>
-      <workItem from="1760566440168" duration="2629000" />
+      <workItem from="1760566440168" duration="7032000" />
     </task>
     <servers />
   </component>
