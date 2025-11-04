@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="796cd92c-534c-4673-b400-37d00d17abe0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/condicionais/src/Aula05EstruturasCondicionais02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicionais/src/Aula05EstruturaCondicionais03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicionais/src/Exercicio23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condicionais/src/Exercicio23v2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/condicionais/src/Aula05EstruturasCondicionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/condicionais/src/Aula05EstruturasCondicionais01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/condicionais/Aula05EstruturasCondicionais.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="347ZByB7heOPLRlInhTC4GcJTYi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,12 +36,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Aula05EstruturaCondicionais03.executor": "Run",
     "Application.Aula05EstruturasCondicionais.executor": "Run",
     "Application.Aula05EstruturasCondicionais02.executor": "Run",
+    "Application.Exercicio23.executor": "Run",
     "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
@@ -66,7 +70,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Aula05EstruturasCondicionais02">
+  <component name="RunManager" selected="Application.Exercicio23">
+    <configuration name="Aula05EstruturaCondicionais03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula05EstruturaCondicionais03" />
+      <module name="condicionais" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Aula05EstruturasCondicionais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aula05EstruturasCondicionais" />
       <module name="condicionais" />
@@ -81,6 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio23" />
+      <module name="condicionais" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="condicionais" />
@@ -90,6 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio23" />
+        <item itemvalue="Application.Aula05EstruturaCondicionais03" />
         <item itemvalue="Application.Aula05EstruturasCondicionais02" />
         <item itemvalue="Application.Aula05EstruturasCondicionais" />
         <item itemvalue="Application.Main" />
@@ -99,8 +119,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
       </set>
     </attachedChunks>
   </component>
@@ -111,7 +131,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760566438975</updated>
-      <workItem from="1760566440168" duration="7032000" />
+      <workItem from="1760566440168" duration="8760000" />
+      <workItem from="1760886850066" duration="439000" />
+      <workItem from="1762192992220" duration="9506000" />
     </task>
     <servers />
   </component>
